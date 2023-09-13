@@ -1,0 +1,116 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+button{
+    margin-left: 20px; 
+}
+.container{
+    width: auto;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+.hello{
+width: auto;
+height: 20px;
+margin-top:  10px;
+margin-left: 10px;
+margin-right: 10px;
+margin-bottom: 20px;
+font-size: 20px;
+padding-right: 10px;
+}
+h5{
+    padding-top: 10px;
+}
+.price{
+    padding-left: 70px;
+    font-size: 20px;
+}
+#buy{
+    margin-left: 70px;
+}
+#image{
+    height: 220px;
+    width: 220px;
+    padding-top:10px;
+    align-self: center;
+}
+#img3{
+    height: 220px;
+    width: 220px;
+    align-self: center;
+    padding-top: 13px;
+}
+#pods{
+    height: 150px;
+    width: 150px;
+    align-self:center;
+    padding-top: 10px;
+}
+h4{
+    height:40px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#laptop{
+    height:180px;
+    width: 180px;
+    align-self: center;
+    padding-top: 10px;
+}
+#home{
+    font-size: 18px;
+    font-weight: 450;
+    color:#000000;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#Aboutus{
+    font-size: 18px;
+    font-weight: 450;
+    color:#000000;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#products{
+    font-size: 18px;
+    font-weight: 450;
+    color:#000000;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+#cart{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#6a0bb3;
+   font-weight:550;
+}
+    #register{
+border-color:black;
+border-radius: 5px ;
+padding-top: 7px;
+padding-bottom:7px ;
+    }
+    #login{
+        border-color: white;
+        border-radius: 5px;
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-top: 7px;
+        padding-bottom: 7px;
+    }
+    #search{  
+        border-radius: 25px;
+    }
+    #logo{
+width: 42px;
+height: 35px;
+    }
+footer{
+    margin-top: 20px;
+    background-color: #1b1b1e;
+}
+#fb{
+    margin-right: 15px;
+}
